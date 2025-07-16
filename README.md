@@ -1,2 +1,2 @@
-# humach-mapping
+# personal-blog
 about the qurious blog
