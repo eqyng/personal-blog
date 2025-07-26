@@ -339,7 +339,7 @@ p {
 }
 
 .leftside-title-toprow a:hover svg {
-    background-color: blue;
+    background-color: yellow;
 }
 
 /*.leftside-title-toprow a:hover svg {
@@ -917,7 +917,7 @@ p {
     color: #B7B7B7;
     list-style: none;
     margin: 0px;
-    padding-left: 25px;
+    padding-left: 7px;
     padding-top: 10px;
 }
 
